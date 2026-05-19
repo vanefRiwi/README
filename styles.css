@@ -1,0 +1,30 @@
+/* =========================================
+   SHATTERED RIFFS — styles.css
+   Rock band 
+   ========================================= */
+
+/* --- CSS Variables --- */
+/* =========================================
+   1. CSS VARIABLES
+   Central design tokens used throughout
+   the stylesheet. 
+   ========================================= */
+:root {
+    --bg: #080808;  /* Page background — near black */
+    --surface: #111111;  /* Card / panel background */
+    --border: rgba(232, 0, 61, 0.2);  /* Subtle red-tinted border */
+    --red: #e8003d; /* Brand accent colour */
+    --orange: #ff5500; 
+    --text: #f0ede8; /* Primary text — warm white */
+    --muted: #6a6560;  /* Secondary / subdued text */
+    --cyan: #00c8a0;
+    --shadow: 0 8px 40px rgba(0, 0, 0, 0.8);
+
+    --font-display: 'Barlow Condensed', sans-serif;
+    --font-body: 'DM Mono', monospace;
+
+    --radius: 4px;
+    --nav-h: 64px;
+    --max-w: 1120px;
+    --transition: 0.22s ease;
+}
