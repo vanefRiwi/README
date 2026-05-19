@@ -15,10 +15,6 @@ Shattered Riffs is a fully static, single-page site. The design system is driven
 
 ## 🛠️ Technologies Used
 
-<img src="./assets/icons/html.svg" alt="HTML5 Icon" height="48"> &nbsp;
-<img src="./assets/icons/css.svg" alt="CSS3 Icon" height="48"> &nbsp;
-<img src="./assets/icons/javascript.svg" alt="JavaScript Icon" height="48">
-
 - **HTML5** — Semantic structure with ARIA accessibility attributes
 - **CSS3** — Custom properties, Flexbox, Grid, CSS transitions, responsive media queries
 - **JavaScript ES6+** — Vanilla, no frameworks or libraries
